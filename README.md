@@ -1,11 +1,11 @@
 # Hi, I'm Rodrigo Arista 👋
 
-Advertising @ UT Austin, building AI products that do real work. I like shipping systems that quietly remove manual effort;
+Advertising @ UT Austin, building AI products and shipping systems that quietly remove manual effort;
 
-- 🧪 **AI Systems Intern @ Tangering AI** — speech-to-text QA consensus (auto-approves the safe calls at zero errors, routes the rest to a human) + red/blue-team audits of agent workflows.
-- ⚙️ **AI Automation Consultant @ Clyde & Co / Garza Tello** — Copilot + business-process automations, privacy-compliant (LFPDPPP / STRIDE).
-- 🚀 **Founder of [Intrn](https://github.com/roarista/intrn)** — AI cold-outreach platform matching finance students to firms.
-- 🏠 **Founder of Previz** — CAD → photoreal sales-render pipeline (Stable Diffusion / ControlNet on Modal).
+- **AI Automation Consultant @ Clyde & Co / Garza Tello** — Copilot + business-process automations, privacy-compliant (LFPDPPP / STRIDE).
+- **AI Systems Intern @ Tangering AI** — speech-to-text QA consensus (auto-approves the safe calls at zero errors, routes the rest to a human) + red/blue-team audits of agent workflows.
+- **Developing [Intrn](https://github.com/roarista/intrn)** intrn.dev — AI cold-outreach platform matching finance students to firms.
+- **Building Previz** — CAD → photoreal sales-render pipeline (Stable Diffusion / ControlNet on Modal).
 - 📍 Coronado, CA · [LinkedIn](https://linkedin.com/in/rodrigo-arista)
 
 ### Public work
