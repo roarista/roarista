@@ -1,6 +1,6 @@
 # Hi, I'm Rodrigo Arista 👋
 
-Advertising @ UT Austin, building AI products and shipping systems that quietly remove manual effort;
+Advertising @ UT Austin, building AI products and shipping systems that remove manual effort;
 
 - **AI Automation Consultant @ Clyde & Co / Garza Tello** — Copilot + business-process automations, privacy-compliant (LFPDPPP / STRIDE).
 - **AI Systems Intern @ Tangering AI** — speech-to-text QA consensus (auto-approves the safe calls at zero errors, routes the rest to a human) + red/blue-team audits of agent workflows.
