@@ -5,7 +5,7 @@ Advertising @ UT Austin, building AI products and shipping systems that remove m
 - **AI Automation Consultant @ Clyde & Co / Garza Tello** — Copilot + business-process automations, privacy-compliant (LFPDPPP / STRIDE).
 - **Intern Dev @ Tangering AI** — speech-to-text QA consensus (auto-approves the safe calls at zero errors, routes the rest to a human) + red/blue-team audits of agent workflows.
 - **Founder of Intrn** — [intrn.dev](https://intrn.dev) — AI cold-outreach platform matching finance students to firms.
-- **Founder of Previz** — CAD → photoreal sales-render pipeline (Stable Diffusion / ControlNet on Modal).
+- **Developing Previz** — CAD → photoreal sales-render pipeline (Stable Diffusion / ControlNet on Modal).
 - 📍 Coronado, CA · [LinkedIn](https://linkedin.com/in/rodrigo-arista)
 
 ### Public work
