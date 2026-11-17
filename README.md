@@ -1,6 +1,6 @@
 # Hi, I'm Rodrigo Arista 👋
 
-Advertising @ UT Austin, building AI products and integrating technology into all my areas of interest;
+Advertising & Sales @ UT Austin, building AI products and integrating technology into all my areas of interest;
 
 - **AI Automation Consultant @ Clyde & Co / Garza Tello** — Copilot + business-process automations, privacy-compliant (LFPDPPP / STRIDE).
 - **Founder of Intrn** — [intrn.dev](https://intrn.dev) — AI cold-outreach platform matching finance students to firms.
